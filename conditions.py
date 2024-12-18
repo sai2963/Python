@@ -53,13 +53,13 @@ print(status)
 
 # Comparision Operators
 
-# Comparing numbers
+
 x = 10
 y = 5
 print(x == y)  
 print(x > y)  
 
-# Comparing strings
+
 name = "Alice"
 print(name == "Alice") 
 print(name != "Bob")   
